@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=以一道闪电⚡️，启动一个世界！" alt="Typing SVG" />
+</div>
 
 <!--
 **Velomaer/Velomaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
